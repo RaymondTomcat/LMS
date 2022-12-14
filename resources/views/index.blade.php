@@ -51,6 +51,7 @@
                                                 <p class="t-header-search-result-right-info">
                                                     مدرس دوره : محمد نیکو
                                                 </p>
+                                                test
                                             </div>
                                             <div class="t-header-search-result-left">
                                                 <img src="img/banner/laravel-payment-processing.jpg" alt="">
